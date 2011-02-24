@@ -52,6 +52,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://github.com/emersonvinicius/W3C-Spec-Styles-Safari-Extension/raw/master/Update.plist</string>
 	<key>Website</key>
 	<string>https://github.com/emersonvinicius/W3C-Spec-Styles-Safari-Extension</string>
 </dict>
