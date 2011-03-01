@@ -7,11 +7,11 @@
 	<key>CFBundleDisplayName</key>
 	<string>W3C Spec Styles</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.duke.w3cspecstyles</string>
+	<string>com.dukes.w3cspecstyles</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Chrome</key>
@@ -25,6 +25,7 @@
 			<string>http://w3.org/TR/</string>
 			<string>http://w3.org/TR/tr-date-all*</string>
 			<string>http://www.w3.org/TR/tr-date-all*</string>
+			<string>http://www.w3.org/News/*</string>
 		</array>
 		<key>Scripts</key>
 		<dict>
