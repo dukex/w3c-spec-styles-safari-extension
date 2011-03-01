@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>W3C Spec Styles</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dukes.w3cspecstyles</string>
+	<string>com.duke.w3cspecstyles</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
