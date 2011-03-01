@@ -6,11 +6,11 @@
 	<array>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.duke.w3cspecstyles</string>
+			<string>com.dukes.w3cspecstyles</string>
 			<key>Developer Identifier</key>
 			<string>J228DMT455</string>
 			<key>CFBundleVersion</key>
-			<string>1.0</string>
+			<string>1.1</string>
 			<key>CFBundleShortVersionString</key>
 			<string>1</string>
 			<key>URL</key>
