@@ -7,4 +7,4 @@ W3C Spec Style [Safari Extension]
 This is the only extension to use the alternate specification styles–Otherwise, you'll need to try the grease kit version.
 
 ## About
-[An article explaining the bookmarklet](https://github.com/benschwarz/w3c-spec-styles)
+[An article explaining the bookmarklet](http://germanforblack.com/articles/moving-towards-readable-w3c-specs)
