@@ -5,11 +5,12 @@
 var W3C = function(){
   var elements = {
     link: {
-      href: "http://github.com/benschwarz/w3c-spec-styles/raw/master/docs/css/master.css",
+      href: "http://vertigem.xxx/w3c-spec-styles/docs/css/master.css",
       rel:  "stylesheet"
     },
     script: {
-      src: "http://github.com/paulirish/w3c-spec-styles/raw/master/docs/js/enhancements.js"
+      src: "http://vertigem.xxx/w3c-spec-styles/docs/js/enhancements.js",
+      async: true
     }
   }
 
